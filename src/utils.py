@@ -1,10 +1,3 @@
-
-"""
-Utils
-Author: Irfan Chahyadi
-Source: github.com/irfanchahyadi/Handwriting-Calculator
-"""
-
 import numpy as np
 
 def find_image_center(img):

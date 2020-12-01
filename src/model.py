@@ -1,10 +1,3 @@
-
-"""
-Model
-Author: Irfan Chahyadi
-Source: github.com/irfanchahyadi/Handwriting-Calculator
-"""
-
 import numpy as np
 from PIL import Image
 import utils

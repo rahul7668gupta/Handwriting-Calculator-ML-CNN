@@ -1,10 +1,3 @@
-
-"""
-Calculator
-Author: Irfan Chahyadi
-Source: github.com/irfanchahyadi/Handwriting-Calculator
-"""
-
 import tkinter as tk
 from PIL import ImageGrab
 import sys
